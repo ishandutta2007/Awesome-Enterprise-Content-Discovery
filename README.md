@@ -57,9 +57,9 @@ This repository tracks top-tier **SaaS platforms** ☁️ and **open-source proj
 
 > **💡 Open-Source Ecosystem**: The open-source enterprise search stack is **production-proven and mature**. Self-hosted systems provide complete **data sovereignty**, **permission enforcement**, and zero per-seat licensing fees.
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
-| Repo | Description | Stars 🌟 |
+| Repo | Description | GitHub_Stars 🌟 |
 |:---|:---|:---:|
 | **[DocsGPT](https://github.com/arc53/DocsGPT)** | **Open-source AI platform for private RAG pipelines & document search.** Connects internal documents (PDF, RST, TXT, MD) and cloud storage to custom LLM search interfaces. Apache-2.0. | [![Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers) |
 | **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** | **The closest open-source alternative to Glean.** Self-hosted internal search across **40+ connectors** (Salesforce, GitHub, Google Drive, Confluence, Slack, Notion). Permission-aware retrieval, generated answers with citations. MIT licensed. | [![Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers) |
@@ -126,3 +126,12 @@ Thank you for supporting open-source software! 🙏
 
 **Made for IT Administrators, Knowledge Managers, DevEx Teams, and Enterprise Architects.**  
 *Let's make enterprise content discovery more open, transparent, and accessible.* ✨
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Enterprise-Content-Discovery&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Enterprise-Content-Discovery_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Enterprise-Content-Discovery_growth.svg">
+  </picture>
+</a>
